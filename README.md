@@ -17,5 +17,5 @@ _Experiment 2 - Price 23.99: In this experiment, the tested product’s price is
 
     log_file.csv — a log file in CSV format containing the list of actions performed by our test users on the platform;
     profiles.csv — a profiles file in CSV format containing a description of the respondents’ profiles;
-    fields_explanation.pdf — a file with a description of the main fields;
-    template_tables.xlsx — a template file with the table structure that should be generated.
+    fields_explanation.pdf — a file with a description of the main fields.
+   
